@@ -1,0 +1,301 @@
+product_id,product_name,category,sub_category,price,cost_price
+1,Smartphone 1,Electronics,Smartphone,28160,16550.0
+2,Smartphone 2,Electronics,Smartphone,22380,15030.0
+3,Smartphone 3,Electronics,Smartphone,13770,8910.0
+4,Smartphone 4,Electronics,Smartphone,12320,7230.0
+5,Smartphone 5,Electronics,Smartphone,38900,31520.0
+6,Smartphone 6,Electronics,Smartphone,28680,19610.0
+7,Smartphone 7,Electronics,Smartphone,34590,22910.0
+8,Smartphone 8,Electronics,Smartphone,39720,27090.0
+9,Smartphone 9,Electronics,Smartphone,14730,8220.0
+10,Smartphone 10,Electronics,Smartphone,37110,23340.0
+11,Laptop 1,Electronics,Laptop,58360,40570.0
+12,Laptop 2,Electronics,Laptop,49300,33200.0
+13,Laptop 3,Electronics,Laptop,98110,74250.0
+14,Laptop 4,Electronics,Laptop,81730,47450.0
+15,Laptop 5,Electronics,Laptop,44710,33950.0
+16,Laptop 6,Electronics,Laptop,104980,68140.0
+17,Laptop 7,Electronics,Laptop,104920,58880.0
+18,Laptop 8,Electronics,Laptop,96110,67040.0
+19,Laptop 9,Electronics,Laptop,119130,68820.0
+20,Laptop 10,Electronics,Laptop,105560,79470.0
+21,Headphones 1,Electronics,Headphones,4420,3620.0
+22,Headphones 2,Electronics,Headphones,6060,3900.0
+23,Headphones 3,Electronics,Headphones,10020,6700.0
+24,Headphones 4,Electronics,Headphones,11930,9060.0
+25,Headphones 5,Electronics,Headphones,3760,2890.0
+26,Headphones 6,Electronics,Headphones,7550,4870.0
+27,Headphones 7,Electronics,Headphones,8880,6400.0
+28,Headphones 8,Electronics,Headphones,2990,1760.0
+29,Headphones 9,Electronics,Headphones,3430,2080.0
+30,Headphones 10,Electronics,Headphones,1840,1190.0
+31,Smartwatch 1,Electronics,Smartwatch,8820,6130.0
+32,Smartwatch 2,Electronics,Smartwatch,9780,7240.0
+33,Smartwatch 3,Electronics,Smartwatch,9010,5610.0
+34,Smartwatch 4,Electronics,Smartwatch,21810,17800.0
+35,Smartwatch 5,Electronics,Smartwatch,17780,10240.0
+36,Smartwatch 6,Electronics,Smartwatch,24160,18410.0
+37,Smartwatch 7,Electronics,Smartwatch,23170,18950.0
+38,Smartwatch 8,Electronics,Smartwatch,22010,12860.0
+39,Smartwatch 9,Electronics,Smartwatch,21990,13580.0
+40,Smartwatch 10,Electronics,Smartwatch,18510,14320.0
+41,Tablet 1,Electronics,Tablet,49270,36090.0
+42,Tablet 2,Electronics,Tablet,37030,26140.0
+43,Tablet 3,Electronics,Tablet,27090,17930.0
+44,Tablet 4,Electronics,Tablet,35340,25480.0
+45,Tablet 5,Electronics,Tablet,54610,31410.0
+46,Tablet 6,Electronics,Tablet,38200,23880.0
+47,Tablet 7,Electronics,Tablet,57140,37120.0
+48,Tablet 8,Electronics,Tablet,57760,36870.0
+49,Tablet 9,Electronics,Tablet,15110,11470.0
+50,Tablet 10,Electronics,Tablet,47970,35850.0
+51,T-Shirt 1,Clothing,T-Shirt,1100,800.0
+52,T-Shirt 2,Clothing,T-Shirt,970,550.0
+53,T-Shirt 3,Clothing,T-Shirt,1190,720.0
+54,T-Shirt 4,Clothing,T-Shirt,1060,640.0
+55,T-Shirt 5,Clothing,T-Shirt,850,660.0
+56,T-Shirt 6,Clothing,T-Shirt,940,660.0
+57,T-Shirt 7,Clothing,T-Shirt,1240,840.0
+58,T-Shirt 8,Clothing,T-Shirt,950,700.0
+59,T-Shirt 9,Clothing,T-Shirt,560,320.0
+60,T-Shirt 10,Clothing,T-Shirt,1520,1020.0
+61,Jeans 1,Clothing,Jeans,1490,1160.0
+62,Jeans 2,Clothing,Jeans,2210,1220.0
+63,Jeans 3,Clothing,Jeans,3400,2060.0
+64,Jeans 4,Clothing,Jeans,2780,1630.0
+65,Jeans 5,Clothing,Jeans,2690,1590.0
+66,Jeans 6,Clothing,Jeans,3350,2090.0
+67,Jeans 7,Clothing,Jeans,2710,1670.0
+68,Jeans 8,Clothing,Jeans,2060,1640.0
+69,Jeans 9,Clothing,Jeans,1580,1040.0
+70,Jeans 10,Clothing,Jeans,1900,1400.0
+71,Jacket 1,Clothing,Jacket,2780,2020.0
+72,Jacket 2,Clothing,Jacket,4760,2620.0
+73,Jacket 3,Clothing,Jacket,3800,2230.0
+74,Jacket 4,Clothing,Jacket,2750,2020.0
+75,Jacket 5,Clothing,Jacket,1840,1360.0
+76,Jacket 6,Clothing,Jacket,5230,4270.0
+77,Jacket 7,Clothing,Jacket,3570,2090.0
+78,Jacket 8,Clothing,Jacket,2100,1370.0
+79,Jacket 9,Clothing,Jacket,4870,2810.0
+80,Jacket 10,Clothing,Jacket,3120,2460.0
+81,Sneakers 1,Clothing,Sneakers,2790,2120.0
+82,Sneakers 2,Clothing,Sneakers,7220,4230.0
+83,Sneakers 3,Clothing,Sneakers,8950,5270.0
+84,Sneakers 4,Clothing,Sneakers,5620,3100.0
+85,Sneakers 5,Clothing,Sneakers,6480,4330.0
+86,Sneakers 6,Clothing,Sneakers,7000,5040.0
+87,Sneakers 7,Clothing,Sneakers,2890,1910.0
+88,Sneakers 8,Clothing,Sneakers,6740,5270.0
+89,Sneakers 9,Clothing,Sneakers,2420,1400.0
+90,Sneakers 10,Clothing,Sneakers,7220,5120.0
+91,Dress 1,Clothing,Dress,2660,2150.0
+92,Dress 2,Clothing,Dress,2400,1410.0
+93,Dress 3,Clothing,Dress,2250,1290.0
+94,Dress 4,Clothing,Dress,3300,2350.0
+95,Dress 5,Clothing,Dress,3510,2670.0
+96,Dress 6,Clothing,Dress,3820,2980.0
+97,Dress 7,Clothing,Dress,3700,2340.0
+98,Dress 8,Clothing,Dress,3170,2180.0
+99,Dress 9,Clothing,Dress,4040,2540.0
+100,Dress 10,Clothing,Dress,1410,1120.0
+101,Mixer Grinder 1,Home,Mixer Grinder,6800,4650.0
+102,Mixer Grinder 2,Home,Mixer Grinder,3010,2060.0
+103,Mixer Grinder 3,Home,Mixer Grinder,5170,3580.0
+104,Mixer Grinder 4,Home,Mixer Grinder,6900,5630.0
+105,Mixer Grinder 5,Home,Mixer Grinder,6700,3920.0
+106,Mixer Grinder 6,Home,Mixer Grinder,6370,4480.0
+107,Mixer Grinder 7,Home,Mixer Grinder,4140,3040.0
+108,Mixer Grinder 8,Home,Mixer Grinder,5930,4790.0
+109,Mixer Grinder 9,Home,Mixer Grinder,5970,3310.0
+110,Mixer Grinder 10,Home,Mixer Grinder,2800,1740.0
+111,Bedsheet 1,Home,Bedsheet,680,390.0
+112,Bedsheet 2,Home,Bedsheet,2100,1440.0
+113,Bedsheet 3,Home,Bedsheet,1790,1230.0
+114,Bedsheet 4,Home,Bedsheet,1390,1030.0
+115,Bedsheet 5,Home,Bedsheet,760,530.0
+116,Bedsheet 6,Home,Bedsheet,1770,1110.0
+117,Bedsheet 7,Home,Bedsheet,1190,820.0
+118,Bedsheet 8,Home,Bedsheet,990,760.0
+119,Bedsheet 9,Home,Bedsheet,1620,1060.0
+120,Bedsheet 10,Home,Bedsheet,1810,1400.0
+121,Cookware Set 1,Home,Cookware Set,5340,3030.0
+122,Cookware Set 2,Home,Cookware Set,5430,4060.0
+123,Cookware Set 3,Home,Cookware Set,6200,3510.0
+124,Cookware Set 4,Home,Cookware Set,2250,1500.0
+125,Cookware Set 5,Home,Cookware Set,4160,2970.0
+126,Cookware Set 6,Home,Cookware Set,3410,2560.0
+127,Cookware Set 7,Home,Cookware Set,5650,3290.0
+128,Cookware Set 8,Home,Cookware Set,5480,4050.0
+129,Cookware Set 9,Home,Cookware Set,2650,2140.0
+130,Cookware Set 10,Home,Cookware Set,4520,3440.0
+131,Lamp 1,Home,Lamp,2300,1370.0
+132,Lamp 2,Home,Lamp,820,620.0
+133,Lamp 3,Home,Lamp,1170,920.0
+134,Lamp 4,Home,Lamp,2430,1360.0
+135,Lamp 5,Home,Lamp,2520,1570.0
+136,Lamp 6,Home,Lamp,660,490.0
+137,Lamp 7,Home,Lamp,1940,1110.0
+138,Lamp 8,Home,Lamp,1640,1060.0
+139,Lamp 9,Home,Lamp,1750,1230.0
+140,Lamp 10,Home,Lamp,1420,880.0
+141,Chair 1,Home,Chair,1960,1380.0
+142,Chair 2,Home,Chair,4750,2910.0
+143,Chair 3,Home,Chair,3790,2130.0
+144,Chair 4,Home,Chair,5380,3310.0
+145,Chair 5,Home,Chair,3620,2370.0
+146,Chair 6,Home,Chair,2180,1750.0
+147,Chair 7,Home,Chair,5360,3750.0
+148,Chair 8,Home,Chair,5610,4210.0
+149,Chair 9,Home,Chair,3390,2160.0
+150,Chair 10,Home,Chair,3370,2510.0
+151,Face Wash 1,Beauty,Face Wash,430,250.0
+152,Face Wash 2,Beauty,Face Wash,490,340.0
+153,Face Wash 3,Beauty,Face Wash,840,500.0
+154,Face Wash 4,Beauty,Face Wash,770,630.0
+155,Face Wash 5,Beauty,Face Wash,870,490.0
+156,Face Wash 6,Beauty,Face Wash,550,340.0
+157,Face Wash 7,Beauty,Face Wash,800,510.0
+158,Face Wash 8,Beauty,Face Wash,610,340.0
+159,Face Wash 9,Beauty,Face Wash,380,270.0
+160,Face Wash 10,Beauty,Face Wash,450,320.0
+161,Shampoo 1,Beauty,Shampoo,720,510.0
+162,Shampoo 2,Beauty,Shampoo,740,560.0
+163,Shampoo 3,Beauty,Shampoo,480,380.0
+164,Shampoo 4,Beauty,Shampoo,980,600.0
+165,Shampoo 5,Beauty,Shampoo,310,200.0
+166,Shampoo 6,Beauty,Shampoo,510,330.0
+167,Shampoo 7,Beauty,Shampoo,1060,830.0
+168,Shampoo 8,Beauty,Shampoo,1160,640.0
+169,Shampoo 9,Beauty,Shampoo,890,690.0
+170,Shampoo 10,Beauty,Shampoo,950,550.0
+171,Moisturizer 1,Beauty,Moisturizer,1140,700.0
+172,Moisturizer 2,Beauty,Moisturizer,1090,620.0
+173,Moisturizer 3,Beauty,Moisturizer,1800,1340.0
+174,Moisturizer 4,Beauty,Moisturizer,530,420.0
+175,Moisturizer 5,Beauty,Moisturizer,1660,1150.0
+176,Moisturizer 6,Beauty,Moisturizer,1380,900.0
+177,Moisturizer 7,Beauty,Moisturizer,1760,1010.0
+178,Moisturizer 8,Beauty,Moisturizer,530,310.0
+179,Moisturizer 9,Beauty,Moisturizer,1550,880.0
+180,Moisturizer 10,Beauty,Moisturizer,1190,790.0
+181,Perfume 1,Beauty,Perfume,4850,2980.0
+182,Perfume 2,Beauty,Perfume,1900,1210.0
+183,Perfume 3,Beauty,Perfume,4160,3080.0
+184,Perfume 4,Beauty,Perfume,3890,2470.0
+185,Perfume 5,Beauty,Perfume,1940,1110.0
+186,Perfume 6,Beauty,Perfume,1650,1250.0
+187,Perfume 7,Beauty,Perfume,3260,1930.0
+188,Perfume 8,Beauty,Perfume,1490,1010.0
+189,Perfume 9,Beauty,Perfume,2510,1740.0
+190,Perfume 10,Beauty,Perfume,4850,2940.0
+191,Sunscreen 1,Beauty,Sunscreen,700,440.0
+192,Sunscreen 2,Beauty,Sunscreen,490,290.0
+193,Sunscreen 3,Beauty,Sunscreen,1140,880.0
+194,Sunscreen 4,Beauty,Sunscreen,1150,650.0
+195,Sunscreen 5,Beauty,Sunscreen,1310,840.0
+196,Sunscreen 6,Beauty,Sunscreen,450,280.0
+197,Sunscreen 7,Beauty,Sunscreen,760,520.0
+198,Sunscreen 8,Beauty,Sunscreen,1130,700.0
+199,Sunscreen 9,Beauty,Sunscreen,1490,830.0
+200,Sunscreen 10,Beauty,Sunscreen,820,550.0
+201,Cricket Bat 1,Sports,Cricket Bat,9430,5820.0
+202,Cricket Bat 2,Sports,Cricket Bat,6510,4990.0
+203,Cricket Bat 3,Sports,Cricket Bat,3230,1790.0
+204,Cricket Bat 4,Sports,Cricket Bat,10270,8370.0
+205,Cricket Bat 5,Sports,Cricket Bat,3130,2420.0
+206,Cricket Bat 6,Sports,Cricket Bat,5600,4030.0
+207,Cricket Bat 7,Sports,Cricket Bat,8380,5930.0
+208,Cricket Bat 8,Sports,Cricket Bat,4440,3420.0
+209,Cricket Bat 9,Sports,Cricket Bat,2020,1150.0
+210,Cricket Bat 10,Sports,Cricket Bat,11010,7370.0
+211,Football 1,Sports,Football,840,670.0
+212,Football 2,Sports,Football,2180,1390.0
+213,Football 3,Sports,Football,680,460.0
+214,Football 4,Sports,Football,920,650.0
+215,Football 5,Sports,Football,2160,1420.0
+216,Football 6,Sports,Football,660,480.0
+217,Football 7,Sports,Football,930,570.0
+218,Football 8,Sports,Football,960,600.0
+219,Football 9,Sports,Football,2280,1280.0
+220,Football 10,Sports,Football,1780,1100.0
+221,Yoga Mat 1,Sports,Yoga Mat,1000,660.0
+222,Yoga Mat 2,Sports,Yoga Mat,1440,820.0
+223,Yoga Mat 3,Sports,Yoga Mat,980,580.0
+224,Yoga Mat 4,Sports,Yoga Mat,840,660.0
+225,Yoga Mat 5,Sports,Yoga Mat,1390,1000.0
+226,Yoga Mat 6,Sports,Yoga Mat,1860,1420.0
+227,Yoga Mat 7,Sports,Yoga Mat,2180,1660.0
+228,Yoga Mat 8,Sports,Yoga Mat,1110,770.0
+229,Yoga Mat 9,Sports,Yoga Mat,1320,1050.0
+230,Yoga Mat 10,Sports,Yoga Mat,1350,880.0
+231,Running Shoes 1,Sports,Running Shoes,3090,1970.0
+232,Running Shoes 2,Sports,Running Shoes,3380,2680.0
+233,Running Shoes 3,Sports,Running Shoes,7410,4190.0
+234,Running Shoes 4,Sports,Running Shoes,8940,6190.0
+235,Running Shoes 5,Sports,Running Shoes,7320,6000.0
+236,Running Shoes 6,Sports,Running Shoes,8810,5080.0
+237,Running Shoes 7,Sports,Running Shoes,6530,4060.0
+238,Running Shoes 8,Sports,Running Shoes,7680,6130.0
+239,Running Shoes 9,Sports,Running Shoes,2200,1800.0
+240,Running Shoes 10,Sports,Running Shoes,3380,2630.0
+241,Badminton Racket 1,Sports,Badminton Racket,4170,2690.0
+242,Badminton Racket 2,Sports,Badminton Racket,4340,3380.0
+243,Badminton Racket 3,Sports,Badminton Racket,1620,1150.0
+244,Badminton Racket 4,Sports,Badminton Racket,4210,3110.0
+245,Badminton Racket 5,Sports,Badminton Racket,4650,2590.0
+246,Badminton Racket 6,Sports,Badminton Racket,3770,3040.0
+247,Badminton Racket 7,Sports,Badminton Racket,3210,2250.0
+248,Badminton Racket 8,Sports,Badminton Racket,1670,1360.0
+249,Badminton Racket 9,Sports,Badminton Racket,4510,3080.0
+250,Badminton Racket 10,Sports,Badminton Racket,2170,1480.0
+251,Programming Book 1,Books,Programming Book,620,380.0
+252,Programming Book 2,Books,Programming Book,780,540.0
+253,Programming Book 3,Books,Programming Book,500,400.0
+254,Programming Book 4,Books,Programming Book,760,440.0
+255,Programming Book 5,Books,Programming Book,1430,1140.0
+256,Programming Book 6,Books,Programming Book,1600,1020.0
+257,Programming Book 7,Books,Programming Book,530,380.0
+258,Programming Book 8,Books,Programming Book,1690,1280.0
+259,Programming Book 9,Books,Programming Book,1600,1250.0
+260,Programming Book 10,Books,Programming Book,1750,1140.0
+261,Fiction Book 1,Books,Fiction Book,860,560.0
+262,Fiction Book 2,Books,Fiction Book,320,200.0
+263,Fiction Book 3,Books,Fiction Book,340,200.0
+264,Fiction Book 4,Books,Fiction Book,870,660.0
+265,Fiction Book 5,Books,Fiction Book,870,630.0
+266,Fiction Book 6,Books,Fiction Book,360,290.0
+267,Fiction Book 7,Books,Fiction Book,700,560.0
+268,Fiction Book 8,Books,Fiction Book,760,460.0
+269,Fiction Book 9,Books,Fiction Book,630,380.0
+270,Fiction Book 10,Books,Fiction Book,450,330.0
+271,Business Book 1,Books,Business Book,540,400.0
+272,Business Book 2,Books,Business Book,1440,1160.0
+273,Business Book 3,Books,Business Book,830,680.0
+274,Business Book 4,Books,Business Book,1460,820.0
+275,Business Book 5,Books,Business Book,1060,850.0
+276,Business Book 6,Books,Business Book,1460,890.0
+277,Business Book 7,Books,Business Book,1020,820.0
+278,Business Book 8,Books,Business Book,550,410.0
+279,Business Book 9,Books,Business Book,660,540.0
+280,Business Book 10,Books,Business Book,580,460.0
+281,Data Science Book 1,Books,Data Science Book,740,550.0
+282,Data Science Book 2,Books,Data Science Book,1620,1280.0
+283,Data Science Book 3,Books,Data Science Book,1310,810.0
+284,Data Science Book 4,Books,Data Science Book,1000,570.0
+285,Data Science Book 5,Books,Data Science Book,1010,580.0
+286,Data Science Book 6,Books,Data Science Book,600,390.0
+287,Data Science Book 7,Books,Data Science Book,1770,1440.0
+288,Data Science Book 8,Books,Data Science Book,2020,1380.0
+289,Data Science Book 9,Books,Data Science Book,1210,840.0
+290,Data Science Book 10,Books,Data Science Book,760,520.0
+291,Exam Guide 1,Books,Exam Guide,1080,780.0
+292,Exam Guide 2,Books,Exam Guide,920,550.0
+293,Exam Guide 3,Books,Exam Guide,370,290.0
+294,Exam Guide 4,Books,Exam Guide,570,360.0
+295,Exam Guide 5,Books,Exam Guide,1160,660.0
+296,Exam Guide 6,Books,Exam Guide,450,290.0
+297,Exam Guide 7,Books,Exam Guide,960,670.0
+298,Exam Guide 8,Books,Exam Guide,1110,640.0
+299,Exam Guide 9,Books,Exam Guide,830,590.0
+300,Exam Guide 10,Books,Exam Guide,730,410.0
