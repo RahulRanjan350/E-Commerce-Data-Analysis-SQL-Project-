@@ -486,6 +486,6 @@ SELECT
 ## Author
 
 **Rahul Kumar**: Python/Django backend developer with SQL experience
-LinkedIn: [your link] | GitHub: [RahulRanjan350](https://github.com/RahulRanjan350)
+LinkedIn: www.linkedin.com/in/rahulkumar350| GitHub: [RahulRanjan350](https://github.com/RahulRanjan350)
 
 Project repository: https://github.com/RahulRanjan350/E-Commerce-Data-Analysis-SQL-Project-
